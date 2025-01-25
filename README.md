@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Muhra Hussain and I am based in the United Arab Emirates. I am passionate about everything data and AI. 
 <!--
 **MuhraHussain/MuhraHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
